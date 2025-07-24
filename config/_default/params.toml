@@ -14,6 +14,7 @@ enableCodeCopy = false
 
 replyByEmail = false
 
+
 # mainSections = ["section1", "section2"]
 # robots = ""
 
@@ -63,7 +64,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = false
-  showAuthor = true
+  showAuthor = false
   # showAuthorBottom = false
   showHero = false
   # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
@@ -75,7 +76,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   # editURL = "https://github.com/username/repo/"
   editAppendPath = true
   seriesOpened = false
-  showHeadingAnchors = true
+  showHeadingAnchors = false
   showPagination = false
   invertPagination = false
   showReadingTime = false
