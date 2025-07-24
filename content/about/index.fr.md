@@ -17,7 +17,4 @@ Venez nous rendre visite pendant nos **heures d’ouverture** — nous serons ra
 
 Moyens de paiement acceptés :
 
-- Espèces
-- Paiement sans contact – Apple Pay / Android Pay
-- Cartes bancaires – MasterCard / VISA
-- Titres restaurant – Titres Restaurant®
+# {{< icon "mastercard" >}} {{< icon "visa" >}} {{< icon "apple" >}} {{< icon "google" >}} {{< icon "ticket_restaurant" >}} {{< icon "wechat" >}}

@@ -17,7 +17,4 @@ Visit us during our **opening hours** — we’ll be happy to welcome you!
 
 We accept payment in:
 
-- Cash
-- Contactless payment - Apple Pay / Android Pay
-- Debit cards - MasterCard / VISA
-- Meal vouchers - Titres Restaurant®
+# {{< icon "mastercard" >}} {{< icon "visa" >}} {{< icon "apple" >}} {{< icon "google" >}} {{< icon "ticket_restaurant" >}} {{< icon "wechat" >}}

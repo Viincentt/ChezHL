@@ -17,7 +17,4 @@ title: "欢迎光临 Chez HL"
 
 我们接受以下支付方式：
 
-- 现金
-- 无接触支付 – Apple Pay / Android Pay
-- 借记卡 – MasterCard / VISA
-- 餐票 – Titres Restaurant®
+# {{< icon "mastercard" >}} {{< icon "visa" >}} {{< icon "apple" >}} {{< icon "google" >}} {{< icon "ticket_restaurant" >}} {{< icon "wechat" >}}
