@@ -6,4 +6,6 @@ title: "主页"
 
 ## 星期一 - 星期日
 
-## 11H - 22:30H
+## 11H - 22H30
+
+# {{< icon "mastercard" >}} {{< icon "visa" >}} {{< icon "apple" >}} {{< icon "google" >}} {{< icon "ticket_restaurant" >}} {{< icon "wechat" >}}

@@ -7,3 +7,5 @@ title: "Homepage"
 ## Monday - Sunday
 
 ## 11AM - 10:30PM
+
+# {{< icon "mastercard" >}} {{< icon "visa" >}} {{< icon "apple" >}} {{< icon "google" >}} {{< icon "ticket_restaurant" >}} {{< icon "wechat" >}}

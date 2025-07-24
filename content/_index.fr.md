@@ -7,3 +7,5 @@ title: "Accueil"
 ## Lundi - Dimanche
 
 ## 11H - 22:30H
+
+# {{< icon "mastercard" >}} {{< icon "visa" >}} {{< icon "apple" >}} {{< icon "google" >}} {{< icon "ticket_restaurant" >}} {{< icon "wechat" >}}
