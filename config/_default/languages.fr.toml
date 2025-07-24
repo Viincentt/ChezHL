@@ -1,12 +1,12 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
-weight = 3
+languageCode = "fr"
+languageName = "French"
+weight = 1
 title = "Chez HL"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "FR"
+  isoCode = "fr"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"

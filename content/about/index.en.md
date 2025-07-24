@@ -1,6 +1,5 @@
 ---
 title: "Welcome to Chez HL"
-description: "Takeaway Available | Paris"
 ---
 
 # Chinese restaurant with a wide range of options

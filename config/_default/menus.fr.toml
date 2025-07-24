@@ -10,18 +10,15 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
-[[main]]
-  name = "About"
-  pageRef = "about"
-  weight = 10
+
 
 [[main]]
   name = "Menu"
-  pageRef = "Menu"
+  pageRef = "menu"
   weight = 1
 
 [[main]]
-  name = "Opening hours"
+  name = "Horaires d'ouverture"
   pageRef = "opening_hours"
   weight = 2
 
@@ -29,6 +26,11 @@
   name = "Contact"
   pageRef = "contact"
   weight = 3
+
+[[main]]
+  name = "A propos"
+  pageRef = "about"
+  weight = 10
 
 #[[main]]
 #  name = "example sub-menu 2"

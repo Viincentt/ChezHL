@@ -1,12 +1,12 @@
 disabled = false
-languageCode = "en"
-languageName = "English"
-weight = 3
-title = "Chez HL"
+languageCode = "zh-cn"
+languageName = "Chinese"
+weight = 2
+title = "巴山蜀水"
 
 [params]
-  displayName = "EN"
-  isoCode = "en"
+  displayName = "简体中文"
+  isoCode = "zh-cn"
   rtl = false
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"

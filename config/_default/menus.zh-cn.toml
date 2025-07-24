@@ -11,22 +11,22 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "About"
+  name = "关于我们"
   pageRef = "about"
   weight = 10
 
 [[main]]
-  name = "Menu"
-  pageRef = "Menu"
+  name = "菜单"
+  pageRef = "menu"
   weight = 1
 
 [[main]]
-  name = "Opening hours"
+  name = "营业时间"
   pageRef = "opening_hours"
   weight = 2
 
 [[main]]
-  name = "Contact"
+  name = "联系方式"
   pageRef = "contact"
   weight = 3
 
