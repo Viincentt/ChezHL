@@ -9,12 +9,12 @@ title: "欢迎光临 Chez HL"
 
 欢迎在我们店内享用**美味的午餐或晚餐**——我们还提供**免费无线网络**，让您在用餐时也能保持在线。
 
-# 提供外卖 | 巴黎
+## 提供外卖 | 巴黎
 
 想吃美味的亚洲或中餐？您来对地方了。在 **Chez HL**，我们提供多样的美味菜肴，欢迎您在地道氛围中享用。
 
 欢迎在我们的**营业时间**内前来，我们将热情欢迎您的光临！
 
-我们接受以下支付方式：
+## 支付方式：
 
-# {{< icon "mastercard" >}} {{< icon "visa" >}} {{< icon "apple" >}} {{< icon "google" >}} {{< icon "ticket_restaurant" >}} {{< icon "wechat" >}}
+# {{< icon "mastercard" >}} {{< icon "visa" >}} {{< icon "apple" >}} {{< icon "google" >}} {{< icon "swile" >}} {{< icon "wechat" >}}

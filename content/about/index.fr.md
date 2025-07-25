@@ -9,12 +9,12 @@ Nos **desserts divins** sont parfaits pour une petite pause sucrée ou pour conc
 
 Profitez d’un **déjeuner ou dîner délicieux** dans notre établissement — nous offrons également le **Wi-Fi gratuit**, pour rester connecté pendant votre visite.
 
-# Plats à emporter disponibles | Paris
+## Plats à emporter disponibles | Paris
 
 Envie d’un bon repas asiatique ou chinois ? Vous êtes au bon endroit. Chez **Chez HL**, nous proposons une variété de plats savoureux à déguster dans une ambiance authentique.
 
 Venez nous rendre visite pendant nos **heures d’ouverture** — nous serons ravis de vous accueillir !
 
-Moyens de paiement acceptés :
+## Paiements
 
-# {{< icon "mastercard" >}} {{< icon "visa" >}} {{< icon "apple" >}} {{< icon "google" >}} {{< icon "ticket_restaurant" >}} {{< icon "wechat" >}}
+# {{< icon "mastercard" >}} {{< icon "visa" >}} {{< icon "apple" >}} {{< icon "google" >}} {{< icon "swile" >}} {{< icon "wechat" >}}

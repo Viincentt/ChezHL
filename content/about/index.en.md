@@ -9,12 +9,12 @@ Our **divine desserts** are perfect for a mid-day treat or to finish off your me
 
 Enjoy a **delicious lunch or dinner** in our venue — we also offer **free Wi-Fi**, so you can stay connected while you're here.
 
-# Takeaway Available | Paris
+## Takeaway Available | Paris
 
 Craving a delicious Asian or Chinese meal? You've come to the right place. At **Chez HL**, we serve a variety of tasty dishes you can enjoy in an authentic atmosphere.
 
 Visit us during our **opening hours** — we’ll be happy to welcome you!
 
-We accept payment in:
+## Payments
 
-# {{< icon "mastercard" >}} {{< icon "visa" >}} {{< icon "apple" >}} {{< icon "google" >}} {{< icon "ticket_restaurant" >}} {{< icon "wechat" >}}
+# {{< icon "mastercard" >}} {{< icon "visa" >}} {{< icon "apple" >}} {{< icon "google" >}} {{< icon "swile" >}} {{< icon "wechat" >}}
