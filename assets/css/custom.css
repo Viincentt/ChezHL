@@ -2,9 +2,9 @@
   .order-first {
     position: sticky;
     top: 3rem;
-    background-color: antiquewhite;
-    z-index: 1000;
+    z-index: 10;
   }
+
   #TableOfContents {
     overflow-x: auto;        /* Allow horizontal scrolling */
     overflow-y: hidden;      /* Hide vertical scroll */
