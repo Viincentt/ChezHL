@@ -8,6 +8,6 @@ title: "Chez HL"
 
 ## Lundi - Dimanche
 
-## 11H - 22H30
+## 11H30 - 22H30
 
 # {{< icon "mastercard" >}} {{< icon "visa" >}} {{< icon "apple" >}} {{< icon "google" >}} {{< icon "swile" >}} {{< icon "wechat" >}}

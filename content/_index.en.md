@@ -9,6 +9,6 @@ layout: "home"
 
 ## Monday - Sunday
 
-## 11AM - 10:30PM
+## 11:30AM - 10:30PM
 
 # {{< icon "mastercard" >}} {{< icon "visa" >}} {{< icon "apple" >}} {{< icon "google" >}} {{< icon "swile">}} {{< icon "wechat" >}}

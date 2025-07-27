@@ -8,6 +8,6 @@ title: "巴山蜀水"
 
 ## 星期一 - 星期日
 
-## 11H - 22H30
+## 11H30 - 22H30
 
 # {{< icon "mastercard" >}} {{< icon "visa" >}} {{< icon "apple" >}} {{< icon "google" >}} {{< icon "swile" >}} {{< icon "wechat" >}}
