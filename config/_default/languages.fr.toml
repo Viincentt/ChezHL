@@ -1,7 +1,7 @@
 disabled = false
 languageCode = "fr"
 languageName = "French"
-weight = 1
+weight = 3
 title = "Chez HL"
 
 [params]

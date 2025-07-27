@@ -1,7 +1,7 @@
 disabled = false
 languageCode = "zh-cn"
 languageName = "Chinese"
-weight = 2
+weight = 1
 title = "巴山蜀水"
 
 [params]
