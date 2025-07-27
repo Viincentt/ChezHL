@@ -27,9 +27,6 @@ jobs:
       - name: Build
         run: hugo --minify
 
-      - name: Copy CNAME file
-        run: echo 'www.chezhl.com' > CNAME
-
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: ${{ github.ref == 'refs/heads/trunk' }}
@@ -37,3 +34,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./public
+          cname: www.chezhl.com
