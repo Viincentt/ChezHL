@@ -11,6 +11,10 @@
     white-space: nowrap;     /* Prevent items from wrapping to the next line */
     -webkit-overflow-scrolling: touch; /* Smooth scrolling on iOS */
   }
+  
+  #TableOfContents::-webkit-scrollbar {
+  display: none;         /* Chrome, Safari */
+}
 
   .toc ul {
     display: flex;           /* Make list items horizontal */
