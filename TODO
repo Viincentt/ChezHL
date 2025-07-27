@@ -1,0 +1,2 @@
+- Refactor content using layouts/data/assets folders???
+  - Example - change price only in one place instead of content/menu/index.en.md + content/menu/index.fr.md + content/menu/index.zh-cn.md
