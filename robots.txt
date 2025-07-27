@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: http://www.vincenthu.net/chezhl.github.io/sitemap.xml
+Sitemap: https://www.vincenthu.net/chezhl/sitemap.xml
