@@ -42,20 +42,10 @@
       return anchors.find(anchor => tocIds.has(anchor.id))?.id || ''
     }
 
-  let lastActiveId = null;
     function updateTOC({ toc, anchors, links, scrollOffset, collapseInactive }) {
       const activeId = getActiveAnchorId(anchors, scrollOffset)
       if (!activeId) return
 
-      if (activeId !== lastActiveId) {
-        const activeLink = toc.querySelector(`a[href="#${CSS.escape(activeId)}"]`);
-        if (activeLink) {
-          activeLink.scrollIntoView({
-            inline: "start"
-          });
-        }
-        lastActiveId = activeId;
-      }
       links.forEach(link => {
         const isActive = link.getAttribute('href') === `#${activeId}`
         link.classList.toggle(ACTIVE_CLASS, isActive)
@@ -81,7 +71,7 @@
       const toc = document.querySelector(TOC_SELECTOR)
       if (!toc) return
 
-      const collapseInactive = {{ if site.Params.smartTOCHideUnfocusedChildren }}true{{ else }}false{{ end }}
+      const collapseInactive = {{ if site.Params.smartTOCHideUnfocusedChildren }}true{{ else }}false{{ end }} 
       const anchors = [...document.querySelectorAll(ANCHOR_SELECTOR)]
       const links = [...toc.querySelectorAll(TOC_LINK_SELECTOR)]
 
