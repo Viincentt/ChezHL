@@ -1,6 +1,5 @@
 ---
-title: "Chez HL"
-layout: "home"
+title: "Chez HL - Authentic Chinese Restaurant in Paris"
 ---
 
 # [1 Rue de Budapest, 75009, Paris, France](https://maps.app.goo.gl/HYrLtHrGPUW5MJbJ7)
