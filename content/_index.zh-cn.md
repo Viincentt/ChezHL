@@ -1,5 +1,5 @@
 ---
-title: "主页"
+title: "巴山蜀水"
 ---
 
 # [1 Rue de Budapest, 75009, Paris, France](https://maps.app.goo.gl/HYrLtHrGPUW5MJbJ7)

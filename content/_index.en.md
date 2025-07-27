@@ -1,5 +1,5 @@
 ---
-title: "Homepage"
+title: "Chez HL"
 layout: "home"
 ---
 
