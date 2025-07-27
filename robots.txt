@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.vincenthu.net/chezhl/sitemap.xml
+Sitemap: https://www.chezhl.com/sitemap.xml
