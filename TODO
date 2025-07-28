@@ -1,2 +1,7 @@
 - Refactor content using layouts/data/assets folders???
+
+  - Opening hours only work for default language + other language disappear
   - Example - change price only in one place instead of content/menu/index.en.md + content/menu/index.fr.md + content/menu/index.zh-cn.md
+
+- Add booking service? shortcode button
+- add Google map embedded code
