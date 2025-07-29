@@ -1,0 +1,14 @@
+monday:
+  other: Lundi
+tuesday:
+  other: Mardi
+wednesday:
+  other: Mercredi
+thursday:
+  other: Jeudi
+friday:
+  other: Vendredi
+saturday:
+  other: Samedi
+sunday:
+  other: Dimanche

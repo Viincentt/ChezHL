@@ -1,0 +1,8 @@
+<table>
+  {{ range site.Data.opening_hours }}
+    <tr>
+      <td>{{ i18n .day }}</td>
+      <td>{{ .time }}</td>
+    </tr>
+  {{ end }}
+</table>
